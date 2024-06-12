@@ -14,6 +14,6 @@ Este script Python calcula a numerologia kármica de uma pessoa com base no seu 
 ## Exemplo
 
 ```bash
-$ python calcular_numerologia.py
+$ python Calcular_Numerologia_Karmica.py
 Digite seu nome completo: João da Silva
 Digite sua data de nascimento (dd/mm/aaaa): 15/04/1985
